@@ -17,22 +17,21 @@ Code to create geoJSON format was adapted from http://www.postgresonline.com/jou
 
 The quiz app tracks the location of a user and asks a question when the user is in close-proximity (less than 5 metres). The haversine formula is used to calculate the distance between a user and the location of a question. The file 'appActivity.js' contains t and 'uploadData.js' contains functions for 
 
-*References for the Quiz App*
-[uploadData.js 
-Code adapted from UCL CEGEG077 Module, Week 6 and 7:Creating a Data Server (API) , accessed 18th April 2018]
+**References for the Quiz App**
 
-[index.html 
-Code adapted from Material Design - : https://getmdl.io/templates/index.html, accessed 23rd April 2018]
+[uploadData.js Code adapted from UCL CEGEG077 Module, Week 6 and 7:Creating a Data Server (API), accessed 18th April 2018]
 
-[appActivity.js 
-Code adapted from https://leafletjs.com/, accessed 25/04/2018 and UCL CEGEG077 Module, Week 1:Leaflet and Javascript Part 1, accessed 21st April 2018
-Code adapted from https://leafletjs.com/reference-1.3.0.html#latlngbounds, accessed 26th April 2018
-Code adapted from https://www.w3schools.com/xml/xml_http.asp, accessed 27th April 2018 and UCL CEGEG077 Module, Week 5:Creating an HTTPS Server, accessed 22nd April 2018
-Code adapted from https://www.htmlgoodies.com/beyond/javascript/calculate-the-distance-between-two-points-in-your-web-apps.html, accessed 19th April 2018
-Code adapted from https://leafletjs.com/, accessed 25/04/2018 and UCL CEGEG077 Module, Week 1:Leaflet and Javascript Part 1, accessed 21st April 2018
-Code adapted from https://leafletjs.com/reference-1.3.0.html#latlngbounds, accessed 26th April 2018
-Code adapted from https://www.w3schools.com/xml/xml_http.asp, accessed 27th April 2018 and UCL CEGEG077 Module, Week 5:Creating an HTTPS Server, accessed 22nd April 2018
-Code adapted from https://www.htmlgoodies.com/beyond/javascript/calculate-the-distance-between-two-points-in-your-web-apps.html, accessed 19th April 2018]
+[index.html Code adapted from Material Design - : https://getmdl.io/templates/index.html, accessed 23rd April 2018]
+
+[appActivity.js Code adapted from https://leafletjs.com/, accessed 25/04/2018 and UCL CEGEG077 Module, Week 1:Leaflet and Javascript Part 1, accessed 21st April 2018,
+
+Code adapted from https://leafletjs.com/reference-1.3.0.html#latlngbounds, accessed 26th April 2018,
+
+Code adapted from https://www.w3schools.com/xml/xml_http.asp, accessed 27th April 2018 and UCL CEGEG077 Module, Week 5:Creating an HTTPS Server, accessed 22nd April 2018,
+
+Code adapted from https://www.htmlgoodies.com/beyond/javascript/calculate-the-distance-between-two-points-in-your-web-apps.html, accessed 19th April 2018,
+
+Code adapted from https://leafletjs.com/, accessed 25/04/2018 and UCL CEGEG077 Module, Week 1:Leaflet and Javascript Part 1, accessed 21st April 2018.]
 
 
 3. Question App
