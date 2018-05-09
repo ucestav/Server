@@ -43,7 +43,7 @@ Also available from: https://github.com/claireellul/cegeg077-week6formcode/blob/
 [index.html Code adapted from Material Design - : https://getmdl.io/templates/index.html, accessed 23rd April 2018]
 
 [appActivity.js Adding a Leaflet Map: Code adapted from https://leafletjs.com/, accessed 25/04/2018 and UCL CEGEG077 Module, Week 1:Leaflet and Javascript Part 1, accessed 21st April 2018,
-Also available fromL https://github.com/claireellul/cegeg077-week5app/blob/master/ucfscde/www/js/appActivity.js
+Also available from: https://github.com/claireellul/cegeg077-week5app/blob/master/ucfscde/www/js/appActivity.js
 
 Get LatLngBounds: Code adapted from https://leafletjs.com/reference-1.3.0.html#latlngbounds, accessed 26th April 2018,
 
