@@ -59,7 +59,7 @@ Also available from: https://github.com/claireellul/cegeg077-week4/blob/master/u
 
 3. Question App
 
-The objective of the Question App is to create a new question when a point on the map is clicked. The user inputs a question and four alternative answers which relate to the POI. The data is then stored in a database and can be inserted into the Quiz App when it is launched.
+A new question is created when a user clicks on a point on the map. A question relating to the point is inserted into the text input of a popup, along with the additional details (e.g. coordinates). These values are submitted into the PostgreSQL database which is then inserted into the Quiz App when deployed. A new question can be submitted when the user clicks on a new map point.
 
 Similar to the Quiz App, there are 4 files that are used to achieve functionality in the Question App.  The ‘index.html’ file has code relating to the app design, the ‘upload.Data.js’ relates to uploading data into the database, ‘appActivity.js’ relates to quiz functions, and ‘httpServer.js’ allows data transfer between database and app. The user guide is labelled 'Question_Guide.html' in www directory. 
 
