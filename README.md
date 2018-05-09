@@ -7,7 +7,7 @@ The server files for quiz app and question app
 
 There are two NodeJS Server files - one for the quiz app and another for the question app. 
 
-Tbe httpServer.js file is used to read questions (quiz points) from the database. Connection details for postGIS are provided in a postGISConnection.js file. Data from the postGIS database are read into a GeoJSON FeatureCollection format which is then inserted into the map as markers. Express.js allows routing by using app.get() to retrieve quiz points and app.post() to upload data in database. 
+The httpServer.js file is used to read questions (quiz points) from the database. Connection details for postGIS are provided in a postGISConnection.js file. Data from the postGIS database are read into a GeoJSON FeatureCollection format which is then inserted into the map as markers. Express.js allows routing by using app.get() to retrieve quiz points and app.post() to upload data in database. 
 
 *References for the NodeJS Server*
 [All the code was adapted from UCL CEGEG077 Module, Week 6 and 7:Creating a Data Server (API), accessed 15th April 2018
