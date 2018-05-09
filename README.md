@@ -13,6 +13,7 @@ Tbe httpServer.js file is used to read questions (quiz points) from the database
 [All the code was adapted from UCL CEGEG077 Module, Week 6 and 7:Creating a Data Server (API), accessed 15th April 2018
 Code to create geoJSON format was adapted from http://www.postgresonline.com/journal/archives/267-Creating-GeoJSON-FeatureCollections-with-JSON-and-PostGIS-functions.html, accessed 20th April 2018]
 
+Material Design was used as the template for both Apps (https://getmdl.io/templates/index.html) and the interactive map was provided by Leaflet (https://leafletjs.com/)
 
 2. Quiz App
 
